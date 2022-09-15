@@ -1,0 +1,10 @@
+C:\Users\spart\source\repos\Language\Language\bin\Debug\Language.exe.config
+C:\Users\spart\source\repos\Language\Language\bin\Debug\Language.exe
+C:\Users\spart\source\repos\Language\Language\bin\Debug\Language.pdb
+C:\Users\spart\source\repos\Language\Language\obj\Debug\Language.csprojAssemblyReference.cache
+C:\Users\spart\source\repos\Language\Language\obj\Debug\Language.Properties.Resources.resources
+C:\Users\spart\source\repos\Language\Language\obj\Debug\Language.csproj.GenerateResource.cache
+C:\Users\spart\source\repos\Language\Language\obj\Debug\Language.exe
+C:\Users\spart\source\repos\Language\Language\obj\Debug\Language.pdb
+C:\Users\spart\source\repos\Language\Language\obj\Debug\Language.MainWindows.resources
+C:\Users\spart\source\repos\Language\Language\obj\Debug\Language.csproj.CoreCompileInputs.cache

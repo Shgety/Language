@@ -1,0 +1,9 @@
+C:\Users\spart\source\repos\Language\Language\bin\Release\Language.exe.config
+C:\Users\spart\source\repos\Language\Language\bin\Release\Language.exe
+C:\Users\spart\source\repos\Language\Language\bin\Release\Language.pdb
+C:\Users\spart\source\repos\Language\Language\obj\Release\Language.csprojAssemblyReference.cache
+C:\Users\spart\source\repos\Language\Language\obj\Release\Language.MainWindows.resources
+C:\Users\spart\source\repos\Language\Language\obj\Release\Language.Properties.Resources.resources
+C:\Users\spart\source\repos\Language\Language\obj\Release\Language.csproj.GenerateResource.cache
+C:\Users\spart\source\repos\Language\Language\obj\Release\Language.exe
+C:\Users\spart\source\repos\Language\Language\obj\Release\Language.pdb
